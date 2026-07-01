@@ -452,7 +452,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                     <polyline points="7 10 12 15 17 10"></polyline>
                     <line x1="12" y1="15" x2="12" y2="3"></line>
-                </svg> Unduh File ZIP di PC
+                </svg> Unduh File ZIP
             `;
         } else {
             shareMode = 'single';
@@ -464,7 +464,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                     <polyline points="7 10 12 15 17 10"></polyline>
                     <line x1="12" y1="15" x2="12" y2="3"></line>
-                </svg> Unduh Langsung di PC (File PNG)
+                </svg> Unduh Langsung (File PNG)
             `;
         }
 
